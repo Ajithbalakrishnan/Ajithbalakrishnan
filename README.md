@@ -1,12 +1,11 @@
 
-Hello my name is AJith Balakrishnan (AB).
+Hello my name is Ajith Balakrishnan (AB).
 
 I'm a Software Engineer.
 
 <!--https://simpleicons.org/?q=raspb -->
 <!-- https://shields.io/ -->
 #### Languages:
-
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C)
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B)
@@ -23,11 +22,6 @@ I'm a Software Engineer.
 #### Tools:
 ![Zoom](https://img.shields.io/badge/-Zoom-333333?style=flat&logo=Zoom)
 ![Office](https://img.shields.io/badge/-Office-333333?style=flat&logo=Office)
-![Slack](https://img.shields.io/badge/-Slack-333333?style=flat&logo=Slack)
-![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=Trello)
-![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-333333?style=flat&logo=Google%20Cloud)
-![Digital Ocean](https://img.shields.io/badge/-Digital%20Ocean-333333?style=flat&logo=Digital%20Ocean)
-![AWS](http://img.shields.io/badge/-AWS-333333?style=flat&logo=Amazon)
 ![Docker](http://img.shields.io/badge/-Docker-333333?style=flat&logo=Docker)
 
 #### OS:
@@ -37,8 +31,8 @@ I'm a Software Engineer.
 
 #### Connect:
 <p align="left">
-<a href="https://twitter.com/socieboy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="socieboy" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/socieboy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="socieboy" height="30" width="40" /></a>
+<a href="https://twitter.com/AjithBalakris20" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Ajithbalakrishnan" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ajith-balakrishnan-218b39a1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Ajithbalakrishnan" height="30" width="40" /></a>
 </p>
 
 
