@@ -39,5 +39,5 @@ I'm a Software Engineer.
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajithbalakrishnan&show_icons=true&theme=radical&locale=en&layout=compact" alt="ajithbalakrishnan" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajithbalakrishnan&show_icons=true&theme=radical&locale=en" alt="ajithbalakrishnan" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ajithbalakrishnan&repo=Ajithbalakrishnan)](https://github.com/anuraghazra/github-readme-stats)" alt="ajithbalakrishnan" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ajithbalakrishnan&repo=Ajithbalakrishnan)]" alt="ajithbalakrishnan" /></p>
 
