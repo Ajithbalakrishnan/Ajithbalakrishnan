@@ -20,7 +20,7 @@ I'm a Software Engineer.
 ![Nvidia Deepstream](https://img.shields.io/badge/-nvidia-333333?style=flat&logo=nvidia)
 
 #### Embedded Edges
-![Jetson](https://img.shields.io/badge/jetson-jetson-brightgreen)
+![Jetson](https://img.shields.io/badge/jetson-jetson-brightgreen-333333?style=flat&logo=jetson)
 ![OAK](https://img.shields.io/badge/OAK--1-OAK--1-red)
 ![RPI](https://img.shields.io/badge/raspberrypi-raspberrypi-orangec)
 ![Arduino](https://img.shields.io/badge/Arduino-Arduino-yellowgreen)
