@@ -36,6 +36,6 @@ I'm a Software Engineer.
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=socieboy&show_icons=true&locale=en&layout=compact" alt="socieboy" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajithbalakrishnan&show_icons=true&locale=en&layout=compact" alt="ajithbalakrishnan" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=socieboy&show_icons=true&locale=en" alt="socieboy" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajithbalakrishnan&show_icons=true&locale=en" alt="ajithbalakrishnan" /></p>
