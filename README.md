@@ -18,8 +18,14 @@ I'm a Software Engineer.
 ![WebSockets](https://img.shields.io/badge/-Websockets-333333?style=flat&logo=Websockets)
 ![Gstreamer](https://img.shields.io/badge/-Gstreamer-333333?style=flat&logo=Gstreamer)
 ![Nvidia Deepstream](https://img.shields.io/badge/-nvidia-333333?style=flat&logo=nvidia)
+
 #### Embedded Edges
-![Git](https://img.shields.io/badge/jetson-jetson-brightgreen)
+![Jetson](https://img.shields.io/badge/jetson-jetson-brightgreen)
+![OAK](https://img.shields.io/badge/OAK--1-OAK--1-red)
+![RPI](https://img.shields.io/badge/raspberrypi-raspberrypi-orangec)
+![Arduino](https://img.shields.io/badge/Arduino-Arduino-yellowgreen)
+![AVR](https://img.shields.io/badge/AVR-AVR-blue)
+![NXP](https://img.shields.io/badge/NXP-NXP-blue)
 
 #### Tools:
 ![Zoom](https://img.shields.io/badge/-Zoom-333333?style=flat&logo=Zoom)
