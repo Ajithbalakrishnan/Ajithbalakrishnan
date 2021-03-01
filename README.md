@@ -35,7 +35,7 @@ Hello my name is Ajith Balakrishnan (AB).
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajithbalakrishnan&show_icons=true&theme=radical&locale=en&layout=compact" alt="ajithbalakrishnan" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajithbalakrishnan&show_icons=true&theme=radical&locale=en&layout=compact" alt="ajithbalakrishnan" height="100" width="300" /></p>
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=ajithbalakrishnan&show_icons=true&theme=radical&locale=en" alt="ajithbalakrishnan" /></p>
 
