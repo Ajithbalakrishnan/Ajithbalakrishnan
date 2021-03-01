@@ -5,14 +5,12 @@ Hello my name is Ajith Balakrishnan (AB).
 
 <!--https://simpleicons.org/?q=raspb -->
 <!-- https://shields.io/ -->
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ajithbalakrishnan)](https://github.com/ryo-ma/github-profile-trophy) 
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajithbalakrishnan&show_icons=true&theme=radical&locale=en&layout=compact" alt="ajithbalakrishnan" height="200" width="300" /></p>
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=ajithbalakrishnan&show_icons=true&theme=radical&locale=en" alt="ajithbalakrishnan" height="200" width="400" /></p>
 
-####
+[![trophy](https://github-profile-trophy.vercel.app/?username=ajithbalakrishnan)](https://github.com/ryo-ma/github-profile-trophy) 
+
 #### Languages:
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C)
