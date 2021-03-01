@@ -33,7 +33,7 @@ I'm a Software Engineer.
 ![Docker](http://img.shields.io/badge/-Docker-333333?style=flat&logo=Docker)
 
 #### OS:
-<p align="right">
+<p align="center">
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux&logoColor=FCC624)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-333333?style=flat&logo=Raspberry%20Pi&logoColor=C51A4A)
 ![Windows](http://img.shields.io/badge/-Windows-333333?style=flat&logo=windows)
