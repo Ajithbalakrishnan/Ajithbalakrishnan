@@ -5,6 +5,9 @@ Hello my name is Ajith Balakrishnan (AB).
 
 <!--https://simpleicons.org/?q=raspb -->
 <!-- https://shields.io/ -->
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ajithbalakrishnan)](https://github.com/ryo-ma/github-profile-trophy) 
+
 #### Languages:
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C)
