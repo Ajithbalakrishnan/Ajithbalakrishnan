@@ -21,6 +21,10 @@ Hello my name is Ajith Balakrishnan (AB).
 ![WebSockets](https://img.shields.io/badge/-Websockets-333333?style=flat&logo=Websockets)
 ![Gstreamer](https://img.shields.io/badge/-Gstreamer-333333?style=flat&logo=Gstreamer)
 ![Nvidia Deepstream](https://img.shields.io/badge/-nvidia-333333?style=flat&logo=nvidia)
+![Tensorflow](https://img.shields.io/badge/Tensorflow-Tensorflow-red)
+![Pytorch](https://img.shields.io/badge/Pytorch-Pytorch-yellow)
+![ONNX](https://img.shields.io/badge/ONNX-ONNX-lightgrey)
+![Darknet](https://img.shields.io/badge/Darknet-Darknet-brightgreen)
 
 #### Embedded Edges
 ![Jetson](https://img.shields.io/badge/jetson-jetson-brightgreen&style=flat)
