@@ -5,7 +5,7 @@ Hello my name is Ajith Balakrishnan (AB).
 
 <!--https://simpleicons.org/?q=raspb -->
 <!-- https://shields.io/ -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajithbalakrishnan&show_icons=true&theme=radical&locale=en&layout=compact" alt="ajithbalakrishnan" height="200" width="300" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajithbalakrishnan&show_icons=true&theme=radical&locale=en&layout=compact" alt="ajithbalakrishnan" height="200" width="400" /></p>
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=ajithbalakrishnan&show_icons=true&theme=radical&locale=en" alt="ajithbalakrishnan" height="200" width="400" /></p>
 
