@@ -13,9 +13,6 @@ Hello my name is Ajith Balakrishnan (AB).
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C)
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B)
 
-#### Database:
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=MySQL)
-
 #### Technologies:
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git&logoColor=F05032)
 ![WebSockets](https://img.shields.io/badge/-Websockets-333333?style=flat&logo=Websockets)
@@ -30,16 +27,6 @@ Hello my name is Ajith Balakrishnan (AB).
 ![AVR](https://img.shields.io/badge/AVR-AVR-blue)
 ![NXP](https://img.shields.io/badge/NXP-NXP-blue)
 
-#### Tools:
-![Zoom](https://img.shields.io/badge/-Zoom-333333?style=flat&logo=Zoom)
-![Office](https://img.shields.io/badge/-Office-333333?style=flat&logo=Office)
-![Docker](http://img.shields.io/badge/-Docker-333333?style=flat&logo=Docker)
-
-#### OS:
-
-![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux&logoColor=FCC624)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-333333?style=flat&logo=Raspberry%20Pi&logoColor=C51A4A)
-![Windows](http://img.shields.io/badge/-Windows-333333?style=flat&logo=windows)
 
 #### Connect:
 <p align="left">
