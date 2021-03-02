@@ -37,7 +37,7 @@ Hello... My name is Ajith Balakrishnan (AB).
 
 #### Connect:
 <p align="left">
-<a href="https://twitter.com/AjithBalakris20" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Ajithbalakrishnan" height="30" width="40" /></a>
+<a href="https://twitter.com/AjithBalakris20" target="red"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Ajithbalakrishnan" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/ajith-balakrishnan-218b39a1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Ajithbalakrishnan" height="30" width="40" /></a>
 </p>
 
