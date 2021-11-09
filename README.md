@@ -7,7 +7,7 @@ Hello... My name is Ajith Balakrishnan (AB).
 <!-- https://shields.io/ -->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajithbalakrishnan&show_icons=true&theme=radical&locale=en&layout=compact" alt="ajithbalakrishnan" height="200" width="350" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=ajithbalakrishnan&show_icons=true&theme=radical&locale=en" alt="ajithbalakrishnan" height="200" width="350" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=ajithbalakrishnan&show_icons=true&theme=radical&locale=en" alt="ajithbalakrishnan" height="200" width="400" /></p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ajithbalakrishnan)](https://github.com/ryo-ma/github-profile-trophy) 
 
