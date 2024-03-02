@@ -23,6 +23,7 @@ Hello... My name is Ajith Balakrishnan (AB).
 ![Nvidia Deepstream](https://img.shields.io/badge/-nvidia-333333?style=flat&logo=nvidia)
 ![Tensorflow](https://img.shields.io/badge/Tensorflow-Tensorflow-red)
 ![Pytorch](https://img.shields.io/badge/Pytorch-Pytorch-yellow)
+![Darknet](https://img.shields.io/badge/LLM-LLM-brightgreen)
 ![ONNX](https://img.shields.io/badge/ONNX-ONNX-lightgrey)
 ![Darknet](https://img.shields.io/badge/Darknet-Darknet-brightgreen)
 
